@@ -1,0 +1,9 @@
+# segredos
+.env
+# projetos de produto (ficam só no seu computador)
+projetos/*
+!projetos/.gitkeep
+# lixo
+__pycache__/
+*.pyc
+.DS_Store
